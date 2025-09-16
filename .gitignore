@@ -1,2 +1,34 @@
-.venv
-Models
+# Pastas
+Models/
+.Models/
+models/
+.models/
+data/
+.data/
+lightning_logs/
+trained_models/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

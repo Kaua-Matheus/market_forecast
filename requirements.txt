@@ -6,3 +6,4 @@ matplotlib
 setuptools
 yfinance
 neuralprophet
+darts
