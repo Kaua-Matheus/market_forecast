@@ -7,3 +7,4 @@ setuptools
 yfinance
 neuralprophet
 darts
+gensim
